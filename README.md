@@ -4,8 +4,7 @@
 
 **PYTHON**
 
-*JAVA*
 'for i in range(1,1000,2):pass'
-''' Python
+''' python
 for i in range(0,1000)
-print(i)
+  print(i)
