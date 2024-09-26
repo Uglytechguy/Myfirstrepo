@@ -9,7 +9,7 @@
 for i in range(0,1000)
   print(i)
 
-```Javascript
+```javascript
 let button = document.getElementByid(("btn")
 console.log(button)
 ```
